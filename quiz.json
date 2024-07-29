@@ -1,0 +1,105 @@
+{
+  "shortDescription": "Test your manga knowledge with this quiz.",
+  "questions": [
+    {
+      "question": "Who is the ninja?",
+      "answers": ["Naruto", "Goku", "Luffy"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Futur Pirate King?",
+      "answers": ["Luffy", "Zoro", "Nami"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Death Note owner?",
+      "answers": ["Light", "L", "Ryuk"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Dragon Balls main caracter?",
+      "answers": ["Goku", "Vegeta", "Bulma"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Alchemist main caracter??",
+      "answers": ["Edward", "Alphonse", "Mustang"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Soul Reaper main caracter??",
+      "answers": ["Ichigo", "Renji", "Orihime"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Titan slayer main caracter??",
+      "answers": ["Eren", "Mikasa", "Levi"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Demon Slayer main caracter??",
+      "answers": ["Tanjiro", "Nezuko", "Zenitsu"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Future Diary main caracter??",
+      "answers": ["Yuno", "Yuki", "Akise"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Alchemy symbol?",
+      "answers": ["Circle", "Star", "Cube"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Hero school?",
+      "answers": ["UA", "SA", "TA"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Ghoul city?",
+      "answers": ["Tokyo", "Kyoto", "Osaka"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Hunter x Hunter main caracter?",
+      "answers": ["Gon", "Killua", "Kurapika"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Blue Exorcist?",
+      "answers": ["Rin", "Yukio", "Shura"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "SAO game?",
+      "answers": ["Kirito", "Asuna", "Sinon"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Detective Conan?",
+      "answers": ["Conan", "Ran", "Kogoro"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Fire user?",
+      "answers": ["Natsu", "Gray", "Erza"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Cursed fingers?",
+      "answers": ["Yuji", "Megumi", "Nobara"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Gintama weapon?",
+      "answers": ["Sword", "Gun", "Staff"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Black Clover?",
+      "answers": ["Asta", "Yuno", "Noelle"],
+      "correctAnswerIndex": 0
+    }
+  ]
+}
